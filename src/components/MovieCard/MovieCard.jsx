@@ -33,7 +33,7 @@ export const MovieCard = () => {
             <Box 
                 width={1 / 2}
                 p="3"
-                borderWidth="3"
+                borderWidth="1"
                 borderStyle='solid'
                 borderColor='accent'
                 borderRadius="normal"
